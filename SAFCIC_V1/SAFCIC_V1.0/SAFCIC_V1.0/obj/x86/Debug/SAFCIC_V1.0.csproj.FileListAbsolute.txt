@@ -1,0 +1,51 @@
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.exe
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.pdb
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Principal.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csproj.GenerateResource.Cache
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.exe
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.pdb
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Buscar.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Cliente_Venta.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Consulta_stock.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Control.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Ficha.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Orden_Trabajo.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Reporte.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csprojResolveAssemblyReference.cache
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.exe
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.pdb
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.exe
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.pdb
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csprojResolveAssemblyReference.cache
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Buscar.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Cliente_Venta.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Consulta_stock.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Control.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Ficha.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Orden_Trabajo.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Principal.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Reporte.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Properties.Resources.resources
+C:\respaldo defontana\proyecto emilio\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csproj.GenerateResource.Cache
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.exe
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.pdb
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.exe
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.pdb
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Buscar.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Cliente_Venta.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Consulta_stock.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Control.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Ficha.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Orden_Trabajo.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Principal.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Reporte.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csproj.GenerateResource.Cache
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\itextsharp.dll
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1._0.Forms.Admin_stock.resources
+C:\Users\ThinkPad\Desktop\proyecto de titulo\proyecto emilio (2)\proyecto emilio\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.exe.config
+C:\Users\emili\OneDrive\Escritorio\proyecto emilio (1)\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\bin\Debug\SAFCIC_V1.0.exe.config
+C:\Users\emili\OneDrive\Escritorio\proyecto emilio (1)\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.exe
+C:\Users\emili\OneDrive\Escritorio\proyecto emilio (1)\SAFCIC_V1\SAFCIC_V1.0\SAFCIC_V1.0\obj\x86\Debug\SAFCIC_V1.0.pdb

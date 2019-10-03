@@ -1,0 +1,7 @@
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\bin\Debug\pruebas.exe
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\bin\Debug\pruebas.pdb
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\obj\x86\Debug\pruebas.Form1.resources
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\obj\x86\Debug\pruebas.Properties.Resources.resources
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\obj\x86\Debug\pruebas.csproj.GenerateResource.Cache
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\obj\x86\Debug\pruebas.exe
+C:\Users\ThinkPad\AppData\Local\Temporary Projects\pruebas\obj\x86\Debug\pruebas.pdb

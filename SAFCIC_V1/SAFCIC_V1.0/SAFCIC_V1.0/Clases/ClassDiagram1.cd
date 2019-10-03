@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SAFCIC_V1._0.Clases.Cliente">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAAACAAgACAAAQAAgAAAAAAAgAAAAI=</HashCode>
+      <FileName>Clases\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAFCIC_V1._0.Clases.Controles">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAgAAQAAAAAAAAAAAAAAAAQAgABAAAEAIAAAAIA=</HashCode>
+      <FileName>Clases\Controles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAFCIC_V1._0.Clases.Ficha">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAACAAAACAAAAAAAICEAARAAAgAAAAAAABAIAA=</HashCode>
+      <FileName>Clases\Ficha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAFCIC_V1._0.Clases.Stock">
+    <Position X="1.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAAQEAAAAAIAAAQAACAIBACIAAAAEAAAQAE=</HashCode>
+      <FileName>Clases\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAFCIC_V1._0.Clases.Venta">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAASgAAAAAAAAEAAAAAAECAAgQAQEAAAAIAIIAABAA=</HashCode>
+      <FileName>Clases\Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
